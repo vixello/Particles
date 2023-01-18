@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<group>
+	<rotate>0</rotate>
+	<force>-1000</force>
+	<spinning>0</spinning>
+	<velLimit>70</velLimit>
+	<emitterRad>21</emitterRad>
+	<forceRad>-100</forceRad>
+</group>
